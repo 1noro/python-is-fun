@@ -1,2 +1,2 @@
-# python-if-fun
+# python-is-fun
 Learn python exercise for childrens.
